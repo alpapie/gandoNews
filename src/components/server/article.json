@@ -1,0 +1,785 @@
+{
+    "article": [
+        {
+          "source": {
+            "id": "wired",
+            "name": "Wired"
+          },
+          "author": "Lauren Goode",
+          "title": "Peloton Rides Are Video Games Now",
+          "description": "A new feature for Peloton bikes called Lanebreak adds another layer of gamification to the company's connected home workouts.",
+          "url": "https://www.wired.com/story/peloton-lanebreak/",
+          "urlToImage": "https://media.wired.com/photos/620d728e147c464202612d7e/191:100/w_1280,c_limit/Gear-Peloton-FAMILYROOM_BIKE_WIDE.jpg",
+          "publishedAt": "2022-02-17T12:00:00Z",
+          "content": "Ask any Peloton user what they like about their bike, and most answers would probably include some reference to a Peloton instructor rather than the bike itself. Its been written many times before, b… [+2767 chars]"
+        },
+        {
+            "source": {
+              "id": null,
+              "name": "20 Minutes"
+            },
+            "author": null,
+            "title": "Guerre en Ukraine EN DIRECT : « Vladimir Poutine a menti », dénonce le Premier ministre Jean Castex... - 20 Minutes",
+            "description": "Suivez avec nous ce mardi 1er mars les dernières informations sur la guerre menée par la Russie en Ukraine",
+            "url": "https://www.20minutes.fr/monde/3243915-20220301-guerre-ukraine-direct-convoi-militaire-russe-60-km-long-approche-kiev",
+            "urlToImage": "https://img.20mn.fr/DUVT_-dETbaCsVycjUgQyyk/648x360_jean-castex.jpg",
+            "publishedAt": "2022-03-01T14:29:05Z",
+            "content": "09h09 : Au Moyen-Orient, le discours médiatique ne passe pas\r\n« Ce n’est pas l’Irak ou l’Afghanistan ». Avec l’invasion russe en Ukraine, les internautes du monde arabe suivent, indignés et interloqu… [+735 chars]"
+          },
+          {
+            "source": {
+              "id": "le-monde",
+              "name": "Le Monde"
+            },
+            "author": "Simon Auffret et Charles-Edouard Ama Koffi",
+            "title": "Les députés débattent concernant la guerre en Ukraine, la droite inquiète d'une campagne sans débat : l'actualité politique en direct - Le Monde",
+            "description": "Le premier ministre français a fait part de son « admiration » pour le président ukrainien Volodymyr Zelensky, sous les applaudissements nourris de l’Assemblée nationale.",
+            "url": "https://www.lemonde.fr/election-presidentielle-2022/live/2022/03/01/jean-castex-a-dit-aux-candidats-agir-pour-que-la-campagne-se-deroule-le-plus-normalement-possible-malgre-la-guerre-en-ukraine-l-actualite-politique-en-direct_6115660_6059010.html",
+            "urlToImage": "https://img.lemde.fr/2022/02/25/0/0/6240/3120/1440/720/60/0/3140992_737049145-cbi0999014.jpg",
+            "publishedAt": "2022-03-01T14:10:55Z",
+            "content": "Pendant la réunion dinformation tenue à Matignon, hier soir, sur la guerre en Ukraine, Jean Castex a assuré aux candidats présents que le gouvernemet tenait à ce que la campagne électorale se déroule… [+2364 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Leseco.ma"
+            },
+            "author": null,
+            "title": "Conflit Russie-Ukraine : récit du calvaire des milliers d’étudiants marocains - Leseco.ma",
+            "description": "Entre peur et désarroi, les milliers de Marocains, encore bloqués en Ukraine, tentent de rejoindre les frontières des pays limitrophes.",
+            "url": "https://leseco.ma/maroc/conflit-russie-ukraine-recit-du-calvaire-des-milliers-detudiants-marocains.html",
+            "urlToImage": "https://leseco.ma/wp-content/uploads/2022/03/Russie-Ukraine-1.jpg",
+            "publishedAt": "2022-03-01T14:10:47Z",
+            "content": "Entre peur et désarroi, les milliers de Marocains, encore bloqués en Ukraine, tentent de rejoindre les frontières des pays limitrophes. Lambassade du Maroc à Kiev, en étroite coordination avec celles… [+6600 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Maroc-diplomatique.net"
+            },
+            "author": "Maroc diplomatique",
+            "title": "Blé et maïs : incertitudes sur le marché marocain - Maroc diplomatique",
+            "description": "Bachir Abdallah Le prix du blé et du maïs a fortement augmenté après que les pays occidentaux ont imposé des sanctions plus sévères à la Russie suite à la crise géopolitique qui sévit en Europe entre",
+            "url": "https://maroc-diplomatique.net/ble-et-mais-incertitudes-sur-le-marche/",
+            "urlToImage": "https://maroc-diplomatique.net/wp-content/uploads/2022/03/shutterstock_488899324-4000x2666-1-scaled-e1646143447982.jpg",
+            "publishedAt": "2022-03-01T14:05:35Z",
+            "content": "Bachir Abdallah\r\nLe prix du blé et du maïs a fortement augmenté après que les pays occidentaux ont imposé des sanctions plus sévères à la Russie suite à la crise géopolitique qui sévit en Europe entr… [+2620 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Boursier.com"
+            },
+            "author": null,
+            "title": "Prix de l’immobilier et crise sanitaire : la hausse a été encore plus forte dans d’autres pays européens - Boursier.com",
+            "description": "D’après le classement de Meilleurs Agents, le Portugal enregistre la plus forte croissance depuis mars 2020 avec +27,5% pour les prix de l’immobilier résidentiel, devant l’Allemagne à +23,5%.",
+            "url": "https://argent.boursier.com/immobilier/actualites/prix-de-limmobilier-et-crise-sanitaire-la-hausse-a-ete-encore-plus-forte-dans-dautres-pays-europeens-7215.html",
+            "urlToImage": "https://cdn-static.boursier.com/illustrations/photos/l_immobilier-allemagne-berlin.jpg",
+            "publishedAt": "2022-03-01T13:50:00Z",
+            "content": "La hausse des prix de limmobilier depuis la crise sanitaire de 2020 est loin dêtre un phénomène français, cela se vérifie dans beaucoup de pays à léchelle mondiale et notamment en Europe. Le leader d… [+2901 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Le Soir"
+            },
+            "author": "Par Le Soir",
+            "title": "Guerre en Ukraine: l'armée russe dévoile sa prochaine cible à Kiev et appelle les civils à quitter la zone - Le Soir",
+            "description": "Après six jours d’offensive, l’armée russe se dirige vers le centre de la capitale ukrainienne.",
+            "url": "https://www.lesoir.be/427307/article/2022-03-01/guerre-en-ukraine-larmee-russe-devoile-sa-prochaine-cible-kiev-et-appelle-les",
+            "urlToImage": "https://www.lesoir.be/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2022/03/01/node_427307/28909893/public/2022/03/01/B9730124392Z.1_20220301144347_000+G0CK0IO61.2-0.jpg?itok=f3INEx0U1646145514",
+            "publishedAt": "2022-03-01T13:43:47Z",
+            "content": "Larmée russe va frapper des infrastructures des services de sécurité ukrainiens à Kiev et a appelé mardi en conséquence les civils vivant à proximité à fuir.\r\n« Afin darrêter les attaques informatiqu… [+492 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "RTBF"
+            },
+            "author": "Anthony Roberfroid",
+            "title": "Belfius désactive les paiements de carburant depuis son application mobile dans les stations-service Lukoil - RTBF",
+            "description": "La banque Belfius a décidé de désactiver le service Car-Pay Diem pour les pompes à essence Lukoil dès ce mardi.  Ce...",
+            "url": "https://www.rtbf.be/article/belfius-desactive-les-paiements-de-carburant-depuis-son-application-mobile-dans-les-stations-service-lukoil-10945848",
+            "urlToImage": "https://ds.static.rtbf.be/article/image/1920x1080/6/9/1/e046ede63264b10130007afca077877f-1646141870.jpg",
+            "publishedAt": "2022-03-01T13:40:52Z",
+            "content": "La banque Belfius a décidé de désactiver le service Car-Pay Diem pour les pompes à essence Lukoil dès ce mardi.\r\nCe service, directement disponible dans lapplication de la banque belge, permet de réa… [+521 chars]"
+          },
+          {
+            "source": {
+              "id": "google-news",
+              "name": "Google News"
+            },
+            "author": null,
+            "title": "Covid-19 : Fin de la vague Omicron au Maroc - Médias 24",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vbWVkaWFzMjQuY29tLzIwMjIvMDMvMDEvY292aWQtMTktZmluLWRlLWxhLXZhZ3VlLW9taWNyb24tYXUtbWFyb2Mv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-01T13:12:55Z",
+            "content": null
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Conflit Ukraine-Russie : indignation à propos du traitement des Africains coincés en Ukraine - BBC Afrique",
+            "description": "Des voix s'élèvent en Afrique pour dénoncer le traitement des Africains qui veulent fuir l'Ukraine.",
+            "url": "https://www.bbc.com/afrique/region-60570867",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_afrique/B7C6/production/_123464074_cfbd325c-291c-43dc-b674-3178c5e56d4b.jpg",
+            "publishedAt": "2022-03-01T13:01:01Z",
+            "content": "Crédit photo, AFP\r\nLégende image, Avant le conflit, il y avait plusieurs milliers d'étudiants africains en Ukraine.\r\nLes images de ressortissants africains confrontés à des difficultés pour fuir l'Uk… [+5277 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "Guerre en Ukraine : le chef pro-Poutine Valery Gergiev congédié par l'orchestre philharmonique de Munich - franceinfo",
+            "description": "Le maire de Munich Dieter Reiter avait laissé à Valery Guerguiev jusqu'à lundi pour se \"distancer de façon claire et catégorique\" de l'invasion de l'Ukraine par la Russie.",
+            "url": "https://www.francetvinfo.fr/culture/musique/classique/guerre-en-ukraine-le-chef-pro-poutine-valery-gergiev-congedie-par-l-orchestre-philharmonique-de-munich_4987524.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/7X8ZDXVp8TR824j6640YefM_ZO8/1500x843/2022/03/01/phplSvq6z.jpg",
+            "publishedAt": "2022-03-01T13:00:54Z",
+            "content": "Le maire de Munich Dieter Reiter avait laissé à Valery Guerguiev jusqu'à lundi pour se \"distancer de façon claire et catégorique\" de l'invasion de l'Ukraine par la Russie.L'orchestre philharmonique d… [+4100 chars]"
+          },
+          {
+            "source": {
+              "id": "google-news",
+              "name": "Google News"
+            },
+            "author": null,
+            "title": "L'Ukraine fait à nouveau flamber le pétrole, le Brent bondit de plus de 5% - Médias 24",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vbWVkaWFzMjQuY29tL2FnZW5jZS1wcmVzc2UvbHVrcmFpbmUtZmFpdC1hLW5vdXZlYXUtZmxhbWJlci1sZS1wZXRyb2xlLWxlLWJyZW50LWJvbmRpdC1kZS1wbHVzLWRlLTUv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-01T13:00:26Z",
+            "content": null
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Lesiteinfo.com"
+            },
+            "author": null,
+            "title": "La maire de Rabat lance un appel aux commerçants (VIDÉO) - LeSiteinfo Français",
+            "description": "La maire de Rabat Asmaa Rhlalou a lancé un appel aux propriétaires de cafés, restaurants et commerces à Rabat pour régler leur statut légal. La maire de Rabat Asmaa Rhlalou a lancé un appel aux propriétaires de cafés, restaurants et commerces à Rabat pour rég…",
+            "url": "https://www.lesiteinfo.com/maroc/la-maire-de-rabat-lance-un-appel-aux-commercants-video/",
+            "urlToImage": "https://www.lesiteinfo.com/wp-content/uploads/2022/03/asmaa-ghlalou.jpg",
+            "publishedAt": "2022-03-01T12:58:00Z",
+            "content": "La maire de Rabat Asmaa Rhlalou a lancé un appel aux propriétaires de cafés, restaurants et commerces à Rabat pour régler leur statut légal.\r\nDans une vidéo publiée sur la chaîne YouTube de la mairie… [+566 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "dh.be"
+            },
+            "author": "J.Co.",
+            "title": "\"Faites attention à votre discours\": l'ex-président Medvedev menace les Européens - dh.be",
+            "description": "Dmitry Medvedev n'a pas apprécié les propos de Bruno Le Maire, qui avait déclaré ce mardi que l'UE était en train de \"provoquer l’effondrement de l'économie russe\".",
+            "url": "https://www.dhnet.be/actu/monde/faites-attention-a-votre-discours-messieurs-la-menace-de-medvedev-apres-les-propos-de-bruno-le-maire-621e11229978e25398d83a29",
+            "urlToImage": "https://t2.ldh.be/N79BCVHIUgh2GYOvkwO3Br8VWOM=/0x0:2560x1280/1280x640/621e11949978e25398d84007.jpg",
+            "publishedAt": "2022-03-01T12:44:59Z",
+            "content": "\"Nous allons provoquer l'effondrement de l'économie russe\", avait affirmé le ministre français de l'Economie mardi matin sur France Info, en évoquant les sanctions prises par l'UE à l'encontre de la … [+1631 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Le HuffPost"
+            },
+            "author": "Matthieu Balu",
+            "title": "Menace nucléaire: la France peut-elle intercepter un missile russe? - Le HuffPost",
+            "description": "La menace brandie par Vladimir Poutine contre les pays qui soutiennent l'Ukraine n'est pas forcément à prendre au pied de la lettre. Mais la France dispose-t-elle d'un bouclier antimissiles efficace?",
+            "url": "https://www.huffingtonpost.fr/entry/menace-nucleaire-la-france-peut-elle-intercepter-un-missile-russe_fr_621cfb79e4b06e1cc5935d2a",
+            "urlToImage": "https://img.huffingtonpost.com/asset/621e03902400006c5b96ba36.png?cache=LXOJVxjwaP&ops=1200_630",
+            "publishedAt": "2022-03-01T12:36:49Z",
+            "content": "GUERRE EN UKRAINE - C’est la menace ultime. Le 27 février, Vladimir Poutine a placé les forces de dissuasion russe en “régime spécial d’alerte”, une manière d’agiter l’épouvantail nucléaire face aux … [+2964 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Lesiteinfo.com"
+            },
+            "author": null,
+            "title": "La chanteuse Salma Rachid accusée de plagiat (VIDEO) - LeSiteinfo Français",
+            "description": "Le dernier clip de Salma Rachid, intitulé \"Wahya\", semble porter \"la poisse\" à la chanteuse marocaine",
+            "url": "https://www.lesiteinfo.com/maroc/la-chanteuse-salma-rachid-accusee-de-plagiat-video/",
+            "urlToImage": "https://www.lesiteinfo.com/wp-content/uploads/2022/03/rachid.jpg",
+            "publishedAt": "2022-03-01T12:23:00Z",
+            "content": "Le dernier clip de Salma Rachid, intitulé « Wahya », semble porter « la poisse » à la chanteuse marocaine. Celle-ci a déjà subi des critiques acerbes sur son accoutrement « doré » dans une séquence d… [+617 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "RTBF"
+            },
+            "author": "AFP",
+            "title": "Guerre en Ukraine : Volodymyr Zelensky s'est adressé au Parlement européen, \"ne nous lâchez pas\" - RTBF",
+            "description": "Le président ukrainien, qui réclame une intégration 'sans délai' de son pays à l'UE à la suite de l'invasion russe,...",
+            "url": "https://www.rtbf.be/article/guerre-en-ukraine-volodymyr-zelensky-sest-adresse-au-parlement-europeen-ne-nous-lachez-pas-10945662",
+            "urlToImage": "https://ds.static.rtbf.be/article/image/1920x1080/4/0/8/44821f701cc30140043698441975b284-1646132752.jpg",
+            "publishedAt": "2022-03-01T12:15:40Z",
+            "content": "Volodymyr Zelensky est intervenu durant plusieurs minutes, visiblement fatigué, en ouverture des débats d'une plénière du Parlement européen entièrement consacrée à l'invasion russe de l'Ukraine. \r\nJ… [+1511 chars]"
+          },
+          {
+            "source": {
+              "id": "le-monde",
+              "name": "Le Monde"
+            },
+            "author": "Le Monde avec AFP",
+            "title": "TikTok autorise les vidéos de dix minutes - Le Monde",
+            "description": "Apprécié par un public souvent jeune pour ses vidéos de quelques dizaines de secondes, le réseau social chinois a décidé d’offrir une plus grande variété de format.",
+            "url": "https://www.lemonde.fr/pixels/article/2022/03/01/tiktok-autorise-les-videos-de-dix-minutes_6115698_4408996.html",
+            "urlToImage": "https://img.lemde.fr/2022/02/28/169/0/3500/1750/1440/720/60/0/1285255_fw1-ukraine-crisis-tiktok-0215-11.jpg",
+            "publishedAt": "2022-03-01T12:13:28Z",
+            "content": "Le réseau social TikTok va permettre à ses utilisateurs de poster des vidéos dune durée maximale de dix minutes, contre trois jusquici, une initiative le plaçant en concurrence plus directe avec son … [+2561 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "BFMTV"
+            },
+            "author": null,
+            "title": "\"Ne nous lâchez pas\": le président ukrainien lance un vibrant appel à l'Union européenne - BFMTV",
+            "description": "Volodymyr Zelensky a demande aux Européens de \"prouver qu'ils sont avec l'Ukraine\" dans ce conflit.",
+            "url": "https://www.bfmtv.com/international/asie/russie/ne-nous-lachez-pas-le-president-ukrainien-lance-un-vibrant-appel-a-l-union-europeenne_AV-202203010311.html",
+            "urlToImage": "https://images.bfmtv.com/8hPiiIsDc7k-jFlw-uSXX5uZpkw=/0x0:1920x1080/1920x0/images/Le-president-Volodymyr-Zelensky-en-visio-au-Parlement-europeen-le-1er-mars-2022-1359697.jpg",
+            "publishedAt": "2022-03-01T12:06:28Z",
+            "content": "Volodymyr Zelensky a demande aux Européens de \"prouver qu'ils sont avec l'Ukraine\" dans ce conflit.\r\n\"Ne nous lâchez pas, ne nous laissez pas\". Le président ukrainien Volodymyr Zelensky a lancé ce ma… [+1523 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "dh.be"
+            },
+            "author": "La Rédaction",
+            "title": "Le gouvernement belge fait le point sur la guerre en Ukraine: \"Une mission de rapatriement n'est pas possible\" - dh.be",
+            "description": "Alexander De Croo s'exprimait ce mardi à partir de 13 heures pour évoquer le soutien de la Belgique à l'Ukraine et faire le point sur l'invasion russe.",
+            "url": "https://www.dhnet.be/actu/belgique/le-kern-s-est-reuni-ce-mardi-pour-evoquer-la-guerre-en-ukraine-suivez-la-conference-de-presse-d-alexander-de-croo-direct-video-621e09b3d8ad586d30ba4d71",
+            "urlToImage": "https://t2.ldh.be/I1kKa_MDTQRpSiIbDF26nQxz7UY=/0x0:2560x1280/1280x640/621e16509978e25398d8402a.jpg",
+            "publishedAt": "2022-03-01T12:03:15Z",
+            "content": "Ce mardi matin, le Kern s'est réuni avec les chefs de la Défense et du renseignement militaire. Le but était d'évoquer le soutien de la Belgique à l'Ukraine. \r\nTout d'abord, le Premier ministre belge… [+5017 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "BFMTV"
+            },
+            "author": null,
+            "title": "Semi-conducteurs : \"quelqu'un est en train de stocker\", dénonce Carlos Tavares - BFMTV",
+            "description": "Le directeur général de Stellantis s’est étonné ce mardi que la production des fabricants de puces augmente, mais que certains constructeurs peinent toujours à s’approvisionner.",
+            "url": "https://www.bfmtv.com/auto/semi-conducteurs-quelqu-un-est-en-train-de-stocker-denonce-carlos-tavares_AV-202203010278.html",
+            "urlToImage": "https://images.bfmtv.com/Kt5n0g5xI7Y0zwoHjggSQ5kAL3I=/0x31:768x463/768x0/images/Carlos-Tavares-directeur-general-de-Stellantis-le-21-juillet-2021-a-Douvrin-1355035.jpg",
+            "publishedAt": "2022-03-01T11:17:39Z",
+            "content": "Le directeur général de Stellantis sest étonné ce mardi que la production des fabricants de puces augmente, mais que certains constructeurs peinent toujours à sapprovisionner.\r\nLa pénurie de puces él… [+1737 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "The Guardian"
+            },
+            "author": "Daniel Boffey",
+            "title": "Ukraine president’s plea to EU: prove that you are with us - The Guardian",
+            "description": "Volodymyr Zelenskiy in passionate videolink address to European parliament amid Russian invasion",
+            "url": "https://amp.theguardian.com/world/2022/mar/01/ukraine-president-volodymyr-zelenskiy-plea-to-eu-prove-that-you-are-with-us",
+            "urlToImage": null,
+            "publishedAt": "2022-03-01T14:29:00Z",
+            "content": "Volodymyr ZelenskiyVolodymyr Zelenskiy in passionate videolink address to European parliament amid Russian invasion\r\nVolodymyr Zelenskiy has appealed to the EU to prove that you are with us and help … [+4778 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Taylorvilledailynews.com"
+            },
+            "author": "Envisionwise Website Service / LinkedUpRadio",
+            "title": "Heart Disease Risk Is Here Year-Round - taylorvilledailynews.com",
+            "description": "It is no longer American Heart Month, but the risk of heart disease is there year-round. \r\n\r\n \r\n\r\nDirector of Anthlary Services for Taylorville Memorial Hospital Lora Polley describes risk ...",
+            "url": "https://taylorvilledailynews.com/local-news/621972",
+            "urlToImage": "https://taylorvilledailynews.com/images/fb_icon.jpg",
+            "publishedAt": "2022-03-01T14:26:36Z",
+            "content": "It is no longer American Heart Month, but the risk of heart disease is there year-round. \r\nDirector of Anthlary Services for Taylorville Memorial Hospital Lora Polley describes risk factors of heart … [+428 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "News18"
+            },
+            "author": "Education and Careers Desk",
+            "title": "JEE Main 2022 LIVE Updates: Exam From April 16, Registrations Begin at jeemain.nta.nic.in - News18",
+            "description": "JEE Main 2022 LIVE Updates: JEE Main Session to be held on April 16, 17, 18, 19, 20, 21. JEE Main Session 2 is to be held on May 24, 25, 26, 27, 28, and 29. The registration process is open at jeemain.nta.nic.in.",
+            "url": "https://www.news18.com/news/education-career/jee-main-2022-live-updates-website-showing-changes-notification-registrations-soon-jeemai-nta-nic-in-nta-livenews-4822880.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/03/jeemain-4-164612933516x9.jpg",
+            "publishedAt": "2022-03-01T14:25:13Z",
+            "content": "Mar 01, 2022 19:55 ISTJEE Main 2022 Goes Multilingual, Select Mode of Exam While Filling Form\r\nMedium of the Question Papers: Drawing from the National Education Policy (NEP), the JEE Main 2022 will … [+7910 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Medical Dialogues"
+            },
+            "author": "PRIYANKA AHUJA",
+            "title": "COVID to influence the incidence of Prematurity - Medical Dialogues",
+            "description": "Covid-19 or SARS-CoV-2 infection may increase preterm births by increasing preeclampsia and...",
+            "url": "https://medicaldialogues.in/mdtv/obstetrics-gynaecology/videos/covid-to-influence-the-incidence-of-prematurity-89318",
+            "urlToImage": "https://medicaldialogues.in/h-upload/2022/03/01/171450-play-button-images-4.jpg",
+            "publishedAt": "2022-03-01T14:04:49Z",
+            "content": "Covid-19 or SARS-CoV-2 infection may increase preterm births by increasing preeclampsia and medically-indicated preterm births, but its effects on spontaneous preterm births are unknown. Infection is… [+984 chars]"
+          },
+          {
+            "source": {
+              "id": "abc-news-au",
+              "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Flooding live: Deluge hits northern NSW, Queenslanders wait for waters to recede - ABC News",
+            "description": "NSW Health evacuates Ballina Hospital amid rising floodwater levels not seen in the region for 68 years. Look back on our blog.",
+            "url": "https://www.abc.net.au/news/2022-03-01/queensland-nsw-weather-rain-flooding-live-warnings-updates/100868056",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/69d69271164b3a7ba1a8446c3ca9f451?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
+            "publishedAt": "2022-03-01T14:01:55Z",
+            "content": "Illinbah residents use flying fox to deliver supplies to those isolated\r\nScenic Rim Regional Council Mayor Greg Christensen told ABC Radio Brisbane inventive locals set up a flying fox to deliver muc… [+1168 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Pocket-lint"
+            },
+            "author": "Pocket-lint",
+            "title": "Sonos Roam SL Bluetooth speaker offers portability at a lower price - Pocket-lint",
+            "description": "Sonos has announced a microphone-free version of its super portable Bluetooth speaker in the Sonos Roam SL.Offering an almost identical design (minus the",
+            "url": "https://www.pocket-lint.com/speakers/news/sonos/160225-sonos-roam-sl-bluetooth-speaker-offers-portability-at-a-lower-price",
+            "urlToImage": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/160225-speakers-news-sonos-roam-sl-bluetooth-speaker-offers-portability-at-a-lower-price-image1-iicj2bvng1.jpg",
+            "publishedAt": "2022-03-01T14:00:00Z",
+            "content": "(Pocket-lint) - Sonos has announced a microphone-free version of its super portable Bluetooth speaker in the Sonos Roam SL.\r\nOffering an almost identical design (minus the mic button) and nearly all … [+1208 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Theiet.org"
+            },
+            "author": "E&T editorial staff",
+            "title": "Europe's joint Mars mission with Russia 'very unlikely' due to war in Ukraine - E&T Magazine",
+            "description": "The launch of a joint Europe-Russian mission to Mars this year is now “very unlikely” due to sanctions imposed as a result of Russia's invasion of Ukraine, the European Space Agency (ESA) said.",
+            "url": "https://eandt.theiet.org/content/articles/2022/03/europe-s-joint-mars-mission-with-russia-very-unlikely-due-to-war-in-ukraine/",
+            "urlToImage": "https://eandt.theiet.org/media/6161/mars-surface-dreamstime_m_111637501.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=131704198070000000",
+            "publishedAt": "2022-03-01T13:59:08Z",
+            "content": "The launch of a joint Europe-Russian mission to Mars this year is now very unlikely due to sanctions imposed as a result of Russia's invasion of Ukraine, the European Space Agency (ESA) said.\r\n The s… [+3718 chars]"
+          },
+          {
+            "source": {
+              "id": "bbc-news",
+              "name": "BBC News"
+            },
+            "author": null,
+            "title": "Lawro's FA Cup and Premier League predictions versus rapper & Nottingham Forest fan Bru-C - BBC Sport",
+            "description": "BBC Sport football expert Mark Lawrenson takes on rapper and Nottingham Forest fan Bru-C to make predictions for this week's FA Cup fifth-round ties and Premier League game.",
+            "url": "https://www.bbc.co.uk/sport/football/60271312",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/43C2/production/_123464371_rapperandnottinghamforestfanbru-c.jpg",
+            "publishedAt": "2022-03-01T13:55:39Z",
+            "content": "Liverpool boss Jurgen Klopp has just won the Carabao Cup for the first time, but can he break new ground in the FA Cup too?\r\nThis season, the Reds are in the fifth round of the FA Cup for only the se… [+20938 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "soompi"
+            },
+            "author": "eclipse01",
+            "title": "Winners Of Korean Music Awards 2022 - soompi",
+            "description": "The 19th annual Korean Music Awards has announced this year’s winners! In contrast to many other South Korean music awards, which typically use sales figures as a major criterion in determining each year’s winners, the Korean Music Awards focuses on musical a…",
+            "url": "https://www.soompi.com/article/1515172wpp/winners-of-korean-music-awards-2022",
+            "urlToImage": "https://6.viki.io/image/bcd4abd4f81745e884063d09e58303e7/dummy.jpeg?s=900x600&e=t",
+            "publishedAt": "2022-03-01T13:50:37Z",
+            "content": "The 19th annual Korean Music Awards has announced this years winners!\r\nIn contrast to many other South Korean music awards, which typically use sales figures as a major criterion in determining each … [+1994 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "ESPN"
+            },
+            "author": "Mel Kiper Jr.",
+            "title": "NFL mock draft 2022 - Mel Kiper's predictions for all 32 first-round picks, with two trade projections and a new No. 1 - ESPN",
+            "description": "Mel Kiper Jr. predicts the top 32 picks of April's draft ahead of the NFL combine. Which team needs a quarterback?",
+            "url": "https://www.espn.com/nfl/insider/draft2022/insider/story/_/id/33377578/nfl-mock-draft-2022-mel-kiper-predictions-all-32-first-round-picks-two-trade-projections-new-no-1",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0227%2Fnba_power_rankings1b_1296x729.jpg",
+            "publishedAt": "2022-03-01T13:49:50Z",
+            "content": "My first mock for the 2022 NFL draft was all the way back in mid-January, before we knew the Bengals and Rams would shake up the first-round order and make it all the way to Super Bowl LVI. It was al… [+26072 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Gonorthumberland.ca"
+            },
+            "author": "93.3 myFM News/Classic Rock staff",
+            "title": "HKPRD Health Unit issues opioid overdose alert - 93.3 myFM",
+            "description": "The Haliburton, Kawartha, Pine Ridge District Health Unit, in consultation with local police services and Emer...",
+            "url": "https://www.gonorthumberland.ca/2022/03/01/559069/",
+            "urlToImage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/435/files/2020/04/HkPR-District-Health-Unit.jpg",
+            "publishedAt": "2022-03-01T13:48:56Z",
+            "content": "The Haliburton, Kawartha, Pine Ridge District Health Unit, in consultation with local police services and Emergency Medical Services, is issuing an Opioid Overdose Alert.\r\nThis is based on recent rep… [+278 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Sky.com"
+            },
+            "author": "Sky",
+            "title": "Ukraine invasion: President Zelenskyy tells EU 'prove you are with us' - as Kharkiv strikes kill 'at least 10' people - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/ukraine-invasion-satellite-images-show-40-mile-long-convoy-of-russian-military-vehicles-closing-in-on-kyiv-12554512",
+            "urlToImage": "https://e3.365dm.com/22/03/1600x900/volodymyr-zelenskyy-ukraine_5690674.jpg?20220301133541",
+            "publishedAt": "2022-03-01T13:48:49Z",
+            "content": "Ukraine's president has pleaded with the European Union to \"prove that you are with us\" in an impassioned speech that received a standing applause and brought the interpreter close to tears.\r\nPreside… [+5182 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Republic World"
+            },
+            "author": "Harsh Vardhan",
+            "title": "NASA set to launch new geostationary satellite on March 2, here's how to watch live - Republic World",
+            "description": "The satellite will be launched using the Atlas V 541 rocket from the Space Launch Complex-41 at Cape Canaveral Space Force Station in Florida.",
+            "url": "https://www.republicworld.com/science/space/nasa-set-to-launch-new-geostationary-satellite-on-march-2-heres-how-to-watch-live-articleshow.html",
+            "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/rzvunveveahxys8g_1646140767.jpeg",
+            "publishedAt": "2022-03-01T13:40:00Z",
+            "content": "NASA is set to conduct another launch this year with the brand new geostationary satellite meant to monitor the western hemisphere. Named Geostationary Operational Environmental Satellite-T (GOES-T),… [+2003 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Domino's shares slide as company announces CEO retirement, weak fourth-quarter results - CNBC",
+            "description": "U.S. same-store sales rose just 1% in the quarter, dragged down by weak performance by Domino's company-owned restaurants.",
+            "url": "https://www.cnbc.com/2022/03/01/dominos-pizza-dpz-q4-2021-earnings-miss-ceo-ritch-allison-to-retire.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104384379-GettyImages-525063324.jpg?v=1646067149",
+            "publishedAt": "2022-03-01T13:38:23Z",
+            "content": "Domino's Pizza on Tuesday announced a C-suite shake-up and quarterly results that missed expectations on most metrics, sending the stock sharply lower.\r\nThe pizza chain posted fourth-quarter earnings… [+3421 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "The Conversation Africa"
+            },
+            "author": "Svetla Ben-Itzhak",
+            "title": "An asteroid impact could wipe out an entire city – a space security expert explains NASA's plans to prevent a potential catastrophe - The Conversation US",
+            "description": "NASA has only mapped 40% of the potentially dangerous asteroids that could crash into Earth. New projects will boost that number, and upcoming missions will test tech that could prevent collisions.",
+            "url": "https://theconversation.com/an-asteroid-impact-could-wipe-out-an-entire-city-a-space-security-expert-explains-nasas-plans-to-prevent-a-potential-catastrophe-177023",
+            "urlToImage": "https://images.theconversation.com/files/447109/original/file-20220217-25-11g19ha.jpg?ixlib=rb-1.1.0&rect=0%2C434%2C5155%2C2573&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2022-03-01T13:37:02Z",
+            "content": "The Earth exists in a dangerous environment. Cosmic bodies, like asteroids and comets, are constantly zooming through space and often crash into our planet. Most of these are too small to pose a thre… [+7654 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Hindustan Times"
+            },
+            "author": "PTI",
+            "title": "Pfizer vaccine less effective against Covid-19 in kids aged 5-11: Study - Hindustan Times",
+            "description": "The effectiveness of the Pfizer Covid-19 vaccine for children waned quickly during the Omicron surge in the US, especially among those aged 5 to 11 years: Study | Health",
+            "url": "https://www.hindustantimes.com/lifestyle/health/pfizer-vaccine-less-effective-against-covid-19-in-kids-aged-5-11-study-101646141464765.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/03/01/1600x900/HEALTH-CORONAVIRUS-GERMANY-VACCINATION-1_1640186899310_1646141543178.JPG",
+            "publishedAt": "2022-03-01T13:36:02Z",
+            "content": "The effectiveness of the Pfizer COVID-19 vaccine for children waned quickly during the Omicron surge in the US, especially among those aged 5 to 11 years, but the preventive was still protective agai… [+2061 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Notebookcheck.net"
+            },
+            "author": "Alex Alderson",
+            "title": "The LG Velvet is set to start receiving Android 12 within the next few weeks - Notebookcheck.net",
+            "description": "LG has committed to upgrading the LG Velvet to Android 12 by the end of this month. LG's Android 12 rollout will begin in South Korea and could take a while before it reaches other markets. The likes of the LG Wing should be in line for Android 12 too.",
+            "url": "https://www.notebookcheck.net/The-LG-Velvet-is-set-to-start-receiving-Android-12-within-the-next-few-weeks.605257.0.html",
+            "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/csm_MC_Velvet_AuroraGray_01_Sleek_Minimal_Design_Desktop_B_a71c514043.jpg",
+            "publishedAt": "2022-03-01T13:31:27Z",
+            "content": "Working For Notebookcheck\r\nAre you a techie who knows how to write? Then join our Team! English native speakers welcome! \r\nNews Writer (AUS/NZL based) - Details here\r\nGerman-English-Translator - Deta… [+1318 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "PCMag.com"
+            },
+            "author": "Angela Moscaritolo",
+            "title": "This Smart Mosquito Repellent System Might Save Your Summer - PCMag AU",
+            "description": "The Thermacell LIV can be controlled with your phone or voice and promises to keep mosquitoes at bay without posing a risk to you or your pets.",
+            "url": "https://au.pcmag.com/smart-home/92712/this-smart-mosquito-repellent-system-might-save-your-summer",
+            "urlToImage": "https://sm.pcmag.com/t/pcmag_au/news/t/this-smart/this-smart-mosquito-repellent-system-might-save-your-summer_pbn8.1200.jpg",
+            "publishedAt": "2022-03-01T13:30:00Z",
+            "content": "If mosquitoes are the bane of your existence in the warm months, you might want to try fighting smarter, not harder. At least, that's the idea behind the Thermacell LIV, a smart mosquito repellent sy… [+2485 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Thecable.ng"
+            },
+            "author": "by  Ebunoluwa Olafusi",
+            "title": "Burkina Faso approves three years military-led transition before election - TheCable",
+            "description": "A national conference in Burkina Faso has approved a charter that will allow the ruling military government to hold power for three years. The military had seized power in a",
+            "url": "https://www.thecable.ng/burkina-faso-approves-three-years-military-led-transition-before-election",
+            "urlToImage": "https://f5p3e9e4.stackpathcdn.com/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-24-at-8.32.56-PM-e1643104196212.jpeg",
+            "publishedAt": "2022-03-01T13:30:00Z",
+            "content": "A national conference in Burkina Faso has approved a charter that will allow the ruling military government to hold power for three years.\r\nThe military had seized power in a coup against President R… [+1215 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Irish Mirror"
+            },
+            "author": "David Kent, Marita Moloney",
+            "title": "Ukraine Russia news LIVE: Second country joins invasion with Russians as Vladimir Putin offers update - Irish Mirror",
+            "description": "Vladimir Putin is alleged to have used an 'illegal bomb' during Russian air strikes in Ukraine on Monday",
+            "url": "https://www.irishmirror.ie/news/world-news/ukraine-russia-news-live-blitzing-26353455",
+            "urlToImage": "https://i2-prod.irishmirror.ie/incoming/article26353474.ece/ALTERNATES/s1200/0_Destroyed-bulidings.jpg",
+            "publishedAt": "2022-03-01T13:29:55Z",
+            "content": "President Michael D Higgins condemns 'immoral and unjustified violence'\r\nPresident Michael D Higgins has called for an end to the \"immoral and unjustified violence\" taking place in Ukraine.\r\nHe urged… [+2358 chars]"
+          },
+        {
+          "source": {
+            "id": "engadget",
+            "name": "Engadget"
+          },
+          "author": "Kris Holt",
+          "title": "TikTok is extending the maximum video length to 10 minutes",
+          "description": "TikTok\r\n is once again increasing the maximum length of videos on the platform, this time from three minutes to 10 minutes. \"Today, we're excited to start rolling out the ability to upload videos that are up to 10 minutes, which we hope would unleash even mor…",
+          "url": "https://www.engadget.com/tiktok-time-limit-10-minutes-174130936.html",
+          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/30aca5a0-057b-11ec-bfff-7855bc9c6282",
+          "publishedAt": "2022-02-28T17:41:30Z",
+          "content": "TikTok\r\n is once again increasing the maximum length of videos on the platform, this time from three minutes to 10 minutes. \"Today, we're excited to start rolling out the ability to upload videos tha… [+1057 chars]"
+        },
+        {
+          "source": {
+            "id": "wired",
+            "name": "Wired"
+          },
+          "author": "Natalie Schriefer",
+          "title": "How to Cope With Post-Game Depression",
+          "description": "Congratulations, you beat your favorite video game. Now it’s time to beat the feelings of emptiness.",
+          "url": "https://www.wired.com/story/post-game-depression/",
+          "urlToImage": "https://media.wired.com/photos/620c4d977d11d746344b59a1/191:100/w_1280,c_limit/Games-Gaming-Depression-1290327395.jpg",
+          "publishedAt": "2022-02-16T14:00:00Z",
+          "content": "Our desire for comfort via familiarity starts in infancy, when we look for familiar faces, such as our mothers, for food and safety. After that, the instinct stays with us, and we continue making att… [+2847 chars]"
+        },
+        {
+          "source": {
+            "id": "wired",
+            "name": "Wired"
+          },
+          "author": "Geoffrey Bunting",
+          "title": "Historical Video Games Have Promise—but Only If They’re Honest",
+          "description": "Games rooted in Greek myth and 13th-century Japan can be beneficial for educators. But are games illuminating the narrative or distorting it?",
+          "url": "https://www.wired.com/story/history-video-games/",
+          "urlToImage": "https://media.wired.com/photos/620eb8fa94a57925893abc89/191:100/w_1280,c_limit/Games-God-of-War-PS4_Screen_StoneMason01_E32017-2_1497328556.jpg",
+          "publishedAt": "2022-02-18T12:00:00Z",
+          "content": "This is an issue we see frequently in history-driven games. In an industry dominated by white menin 2021, according to Statista, 75 percent of developers globally identified as male, while the Entert… [+3368 chars]"
+        },
+        {
+          "source": {
+            "id": "wired",
+            "name": "Wired"
+          },
+          "author": "Chris Stokel-Walker",
+          "title": "TikTok Wants Longer Videos—Whether You Like It or Not",
+          "description": "The company knows that clips over 60 seconds in length stress users out. That won't stop it from chasing the lucrative long-video market.",
+          "url": "https://www.wired.com/story/tiktok-wants-longer-videos-like-not/",
+          "urlToImage": "https://media.wired.com/photos/620feb76d88b0a9fa5094c0f/191:100/w_1280,c_limit/Business_Hourglass-182426632.jpg",
+          "publishedAt": "2022-02-21T12:00:00Z",
+          "content": "The average TikTok userof which there are one billion worldwide, more than 100 million in the United States, and 23 million in the UKspends an hour and 25 minutes on the app every day, according to d… [+3270 chars]"
+        },
+        {
+          "source": {
+            "id": "engadget",
+            "name": "Engadget"
+          },
+          "author": "Mariella Moon",
+          "title": "YouTube adds easy-to-access controls to its video player on iOS and Android",
+          "description": "YouTube has started rolling out a redesigned interface for mobile that includes quick access to Like buttons and other controls. In the past, when you watch full-screen on Android and iOS, you'd have to exit landscape mode to be able to see the thumbs up and …",
+          "url": "https://www.engadget.com/youtube-easy-to-access-controls-landscape-android-ios-102525428.html",
+          "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/8f64e5e0-8405-11ec-87cd-6e91913340f6",
+          "publishedAt": "2022-02-02T10:25:25Z",
+          "content": "YouTube has started rolling out a redesigned interface for mobile that includes quick access to Like buttons and other controls. In the past, when you watch full-screen on Android and iOS, you'd have… [+947 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "New York Times"
+          },
+          "author": "Vanessa Friedman",
+          "title": "It’s Telfar’s World. We’re Just Living in It.",
+          "description": "The designer brings the New York shows to a close with a video-and-fashion happening.",
+          "url": "https://www.nytimes.com/2022/02/17/style/telfar-tv-circle-bag-new-york-fashion-week.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/02/17/fashion/17TELFAR-REVIEW-1/17TELFAR-REVIEW-1-facebookJumbo.jpg",
+          "publishedAt": "2022-02-17T14:59:56Z",
+          "content": "For almost a decade, the unofficial honor of closing New York Fashion Week of having the last word went to Marc Jacobs, the favored son of the city, who had gone to Paris and conquered, showing the w… [+1450 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Lifehacker.com"
+          },
+          "author": "Jake Peterson",
+          "title": "How to Catch a Shiny Pokémon Every Time",
+          "description": "Pokémon Legends: Arceus turns the video game series on its head in more ways than one. and from its open-world concept to the redesigned way you interact with wild Pokémon, plenty of these changes are for the better. And one of the biggest isn’t obvious, but …",
+          "url": "https://lifehacker.com/how-to-catch-a-shiny-pokemon-every-time-1848451769",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/0ca43bd9f6fb27c2d6bf3ea87d3819e6.png",
+          "publishedAt": "2022-01-31T17:30:00Z",
+          "content": "Pokémon Legends: Arceus turns the video game series on its head in more ways than one. and from its open-world concept to the redesigned way you interact with wild Pokémon, plenty of these changes ar… [+3092 chars]"
+        },
+        {
+          "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+          },
+          "author": "Jennifer Pattison Tuohy",
+          "title": "Belkin’s Wemo is the best HomeKit video doorbell, but it’s not perfect",
+          "description": "It’s good, as HomeKit goes.",
+          "url": "https://www.theverge.com/22922576/belkin-wemo-video-doorbell-apple-homekit-camera-review",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/QIjoAU0f1Hqyy2xdet0NR05GbUg=/0x208:2040x1276/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23226627/jtuohy_220125_5003_0013.jpg",
+          "publishedAt": "2022-02-09T19:32:26Z",
+          "content": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.Apple HomeKit users are a patient bunch. The development of HomeKit compatible products has been a sl… [+15556 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+          },
+          "author": "Caitlin McGarry",
+          "title": "Peloton's Video Game Feature Is Here, and It's Fun",
+          "description": "Peloton is having a rough time. The connected fitness company is struggling to sell bikes it once couldn’t keep in stock, its CEO was just replaced with a more competent officer, and it just laid off 2,800 employees. But Peloton has never struggled in one spe…",
+          "url": "https://gizmodo.com/peloton-lanebreak-hands-on-1848552894",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a3e7e1cc7efb38a35db4510801e39321.jpg",
+          "publishedAt": "2022-02-17T14:00:00Z",
+          "content": "Peloton is having a rough time. The connected fitness company is struggling to sell bikes it once couldnt keep in stock, its CEO was just replaced with a more competent officer, and it just laid off … [+6301 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "New York Times"
+          },
+          "author": "Jesus Jiménez",
+          "title": "Minneapolis Police Video Shows Officer Killing Armed Man on Couch",
+          "description": "Amir Locke, 22, was fatally shot as the police carried out a search warrant. He was lying under a blanket until an officer kicked the couch, revealing a gun, body camera video shows.",
+          "url": "https://www.nytimes.com/2022/02/03/us/amir-locke-minneapolis-police-shooting.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/02/03/multimedia/03Minneapolis-a/merlin_201301533_dbeb6f58-f323-4768-a4e7-f0898bb99706-facebookJumbo.jpg",
+          "publishedAt": "2022-02-04T03:15:01Z",
+          "content": "The entire encounter took less than 10 seconds.\r\nThe SWAT team had been carrying out a warrant on Wednesday morning for the Saint Paul Police Departments homicide unit. The Minneapolis Police Departm… [+1225 chars]"
+        },
+        {
+          "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Joe Rogan: Podcast star apologises over past use of racist language",
+          "description": "A video shared online showed the podcast host using a racial slur on several occasions.",
+          "url": "https://www.bbc.co.uk/news/entertainment-arts-60270467",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C0D4/production/_123146394_gettyimages-1358338575.jpg",
+          "publishedAt": "2022-02-05T12:46:27Z",
+          "content": "Image source, Getty Images\r\nThe US podcast host Joe Rogan has issued an apology over his past use of racist language on his popular show. \r\nA widely-shared compilation video showed him repeatedly usi… [+1747 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "New York Times"
+          },
+          "author": "Azi Paybarah",
+          "title": "Two Teenagers Were Fighting. Only the Black One Was Handcuffed.",
+          "description": "A video of the fight at a New Jersey mall circulated widely online. Gov. Philip D. Murphy said the appearance of “racially disparate treatment” was “deeply, deeply disturbing.”",
+          "url": "https://www.nytimes.com/2022/02/17/nyregion/mall-fight-bridgewater-commons-nj.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/02/17/lens/17xp-mallfight-02/17xp-mallfight-02-facebookJumbo.jpg",
+          "publishedAt": "2022-02-18T00:18:58Z",
+          "content": "A spokesman for the Bridgewater Police Department referred questions to the Somerset County Prosecutors Office, which did not respond to requests for comment.\r\nZKyes mother said her son was at the ma… [+1296 chars]"
+        },
+        {
+          "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+          },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Karnataka hijab row deepens as students petition court",
+          "description": "A video showing college gates being shut on a group of Muslim students has led to outrage.",
+          "url": "https://www.bbc.co.uk/news/world-asia-india-60256262",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12947/production/_123130167_hijab1.jpg",
+          "publishedAt": "2022-02-04T08:56:04Z",
+          "content": "Image source, Umesh Marpally\r\nImage caption, A video showing hijab-clad students outside a college gate in Karnataka had gone viral\r\nA high court in the southern Indian state of Karnataka is set to h… [+2962 chars]"
+        },
+        {
+          "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+          },
+          "author": null,
+          "title": "Fake news: The game that shows people how to spread misinformation",
+          "description": "Researchers have designed a video game that fights Covid misinformation by teaching players how fake news is spread.",
+          "url": "https://www.bbc.co.uk/news/av/stories-60261186",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CF84/production/_123142135_p0bm2p08.jpg",
+          "publishedAt": "2022-02-06T00:21:15Z",
+          "content": "Researchers at Cambridge University have developed a video game which teaches people how to spread misinformation about Covid-19. \r\nThe aim of Go Viral! is to make it easier for players to spot fake … [+102 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "New York Times"
+          },
+          "author": "Valerie Hopkins",
+          "title": "In Video, a Defiant President Zelensky Says, ‘We Are Here’",
+          "description": "The 44-year-old president of Ukraine videotaped himself in Kyiv as Russian forces closed in on the capital, vowing to fight them to the end.",
+          "url": "https://www.nytimes.com/2022/02/25/world/europe/zelensky-speech-video.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/02/25/world/25-HP-zelenskym-promo/25zelensky2-facebookJumbo.jpg",
+          "publishedAt": "2022-02-26T02:34:40Z",
+          "content": "Ukraine was and remains ready to talk about a cease-fire and peace, Mr. Nikoforov said on Facebook. This is our permanent position.\r\nHe said that the government in Kyiv had agreed to Mr. Putins propo… [+629 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "New York Times"
+          },
+          "author": "Eduardo Medina",
+          "title": "West Ham Fines Kurt Zouma Over Cat Abuse Video",
+          "description": "Zouma, a defender who also plays for the French national soccer team, lost a sponsorship deal with Adidas on Wednesday after a video circulated online of him kicking his cat.",
+          "url": "https://www.nytimes.com/2022/02/09/sports/soccer/kurt-zouma-cat-fine.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/02/09/multimedia/09xp-zouma/09xp-zouma-facebookJumbo.jpg",
+          "publishedAt": "2022-02-09T20:02:02Z",
+          "content": "The videos have already had ramifications for West Ham and for Zouma, who lost a major sponsorship deal with Adidas. Stefan Pursche, an Adidas spokesman, said in a statement on Wednesday that Zouma i… [+1075 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "New York Times"
+          },
+          "author": "Eduardo Medina",
+          "title": "West Ham Fines Kurt Zouma Over Cat Abuse Video",
+          "description": "Zouma, a defender who also plays for the French national soccer team, lost a sponsorship deal with Adidas on Wednesday after a video circulated online of him kicking his cat.",
+          "url": "https://www.nytimes.com/2022/02/09/sports/soccer/kurt-zouma-cat-abuse.html",
+          "urlToImage": "https://static01.nyt.com/images/2022/02/09/multimedia/09xp-zouma/09xp-zouma-facebookJumbo.jpg",
+          "publishedAt": "2022-02-09T20:02:02Z",
+          "content": "The videos have already had ramifications for West Ham and for Zouma, who lost a major sponsorship deal with Adidas. Stefan Pursche, an Adidas spokesman, said in a statement on Wednesday that Zouma i… [+1075 chars]"
+        },
+        {
+          "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+          },
+          "author": "Cameron Faulkner",
+          "title": "This webcam is built different",
+          "description": "It’s tough to pick the right webcam. There are many options, but few can actually deliver stunning video quality. Opal’s C1, a $300 webcam that has a waitlist, can. We go over this and a few other options that are worth your money.",
+          "url": "https://www.theverge.com/2022/2/7/22916648/best-webcam-opal-c1-elgato-facecam",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/YIinemXMnfwNjdP1w2iIVpfAxi8=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23222942/VRG_VRV_386_WEBCAMS_textless.jpeg",
+          "publishedAt": "2022-02-07T15:00:00Z",
+          "content": "Why the Opal C1 is a great choice, plus some other options\r\nIf youre looking to upgrade your current webcam or youre buying your very first one, prepare to be overwhelmed by options. Webcams come in … [+845 chars]"
+        },
+        {
+          "source": {
+            "id": "cnn",
+            "name": "CNN"
+          },
+          "author": "Liam Reilly, CNN",
+          "title": "Dashcam video leads to arrest in killing of Uber driver",
+          "description": "An Uber driver found dead near Pittsburgh was robbed and killed by her passenger, with key moments of the incident recorded on the car's dash camera and leading to an arrest, according to a criminal complaint.",
+          "url": "https://www.cnn.com/2022/02/22/us/pittsburgh-uber-driver-dead-cellphone-dashcam/index.html",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220219135100-02-pittsburgh-uber-driver-dead-cellphone-dashcam-super-tease.jpg",
+          "publishedAt": "2022-02-22T05:08:49Z",
+          "content": "(CNN)An Uber driver found dead near Pittsburgh was robbed and killed by her passenger, with key moments of the incident recorded on the car's dash camera and leading to an arrest, according to a crim… [+3795 chars]"
+        }
+      ]
+    
+}

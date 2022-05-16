@@ -1,0 +1,100 @@
+@media screen and (min-width: 1100px){
+    .mobileapp,.search-form-2,.preload,.preloders{
+            display: none !important;
+
+}
+}
+@media screen and (max-width:1000px) {
+    .datechoice{
+        display: none !important;
+    }
+    
+}
+.preloders{
+    display: none !important;
+
+}
+#navrigth{
+   margin-right: 100px;
+   text-align: left;
+}
+.fsearch{
+    padding-left: 230px !important;
+}
+.fsearch2{
+    padding-left: 200px!important;
+}
+
+.feed{
+    visibility:visible;
+    overflow:visible;
+    height:100%;
+}
+
+@media (max-width:991.98px){
+    .nav-header .nav-top a{
+        line-height:28px;
+        padding-left:0;
+        width:auto
+    }
+    .nav-header .nav-top a i.feather-zap{
+        font-size:28px!important;
+        margin-right:5px!important
+    }
+    .nav-header .nav-top a .logo-text{
+        line-height:28px;
+        font-size:24px!important
+    }
+}
+.nav-header .nav-menu{
+    display:none;
+    border:0;
+    background-color:transparent!important;
+    flex-shrink:0;
+    width:27px;
+    height:27px;
+    margin-right:32px;
+    font-size:0;
+    position:relative;
+    transition:all .25s ease
+}
+.nav-header .nav-menu:focus{
+    outline:0
+}
+.nav-header .nav-menu:before{
+    content:"";
+    display:inline-block;
+    width:30px;
+    height:2px;
+    top:7px;
+    right:0;
+    position:absolute;
+    border-radius:1px;
+    background:#1b1d21;
+    -webkit-transition:all .25s;
+    -o-transition:all .25s;
+    transition:all .25s}
+    .nav-header .nav-menu:after{
+        content:"";
+        display:inline-block;
+        width:22px;
+        height:2px;
+        top:18px;
+        right:0;
+        position:absolute;
+        border-radius:1px;
+        background:#1b1d21;
+        -webkit-transition:all .25s;
+        -o-transition:all .25s;
+        transition:all .25s}
+        .nav-header .nav-menu.active{
+            background-color:transparent
+        }
+        .nav-header .nav-menu.active:before{
+            transform:translateY(8px) rotate(45deg)
+        }
+        .nav-header .nav-menu.active:after{
+            transform:translateY(-8px) rotate(-45deg);
+        top:22px;
+        width:30px}
+        @media (max-width:991.98px){.nav-header .nav-menu{display:inline-block}}
