@@ -49,7 +49,7 @@ export class Index extends Component{
     componentDidMount(){
       ReactGA.pageview(window.location.pathname + window.location.search);
        const headers = {
-           "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+           "x-api-key": process.env.REACT_APP_TOKEN,
            }
        
         axios.get(this.state.link,{headers}).then(res=>{
@@ -66,7 +66,7 @@ export class Index extends Component{
         e.preventDefault()
       
         const headers = {
-            "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+            "x-api-key": process.env.REACT_APP_TOKEN,
             }
         
         axios.get("https://api.newscatcherapi.com/v2/search?q="+e.target.value+"&lang="+this.state.requetfr+"&topic="+this.state.requetcategorie,{headers}).then(res=>{
@@ -85,7 +85,7 @@ export class Index extends Component{
                 requetfr: e.target.value
             })
             const headers = {
-                "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+                "x-api-key": process.env.REACT_APP_TOKEN,
                 }
 
                 if (this.state.searchhandler) {
@@ -109,7 +109,7 @@ export class Index extends Component{
 
             })
             const headers = {
-                "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+                "x-api-key": process.env.REACT_APP_TOKEN,
                 }
 
                 if (this.state.searchhandler) {
@@ -142,7 +142,7 @@ export class Index extends Component{
                 bntcl:"nav-menu me-0 ms-2"
             })
         }
-        if(this.ntn.length==0){
+        if(this.ntn.length===0){
         this.setState({
             navigation:"navigation scroll-bar nav-active",
             bntcl:"nav-menu me-0 ms-2 active atbtn",
@@ -158,7 +158,7 @@ export class Index extends Component{
                 <li>
                     <label className="item-radio fw-600 font-xssss text-grey-500">
                          
-                        {lang.id =="fr" ? <input type="radio" name="lang" value={lang.id}/>:
+                        {lang.id ==="fr" ? <input type="radio" name="lang" value={lang.id}/>:
                         <input type="radio" name="lang" value={lang.id}/>}
                         <span className="circle-color " >{lang.item}</span>
                     </label>
@@ -193,7 +193,7 @@ export class Index extends Component{
                 <div className="nav-header bg-white shadow-xs border-0">
 
                     <div className="nav-top">
-                        <a href="">
+                        <a href="#">
                             <span className="d-inline-block fredoka-font ls-3 fw-600 text-current font-xxl logo-text mb-0">Gando News </span>
                         </a>
                         <div className="p-2 text-center ms-3 mobileapp cursor-pointer " >
