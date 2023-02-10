@@ -49,7 +49,7 @@ export class Index extends Component{
     componentDidMount(){
       ReactGA.pageview(window.location.pathname + window.location.search);
        const headers = {
-           "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+           "x-api-key": process.env.REACT_APP_TOKEN,
            }
        
         axios.get(this.state.link,{headers}).then(res=>{
@@ -66,7 +66,7 @@ export class Index extends Component{
         e.preventDefault()
       
         const headers = {
-            "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+            "x-api-key": process.env.REACT_APP_TOKEN,
             }
         
         axios.get("https://api.newscatcherapi.com/v2/search?q="+e.target.value+"&lang="+this.state.requetfr+"&topic="+this.state.requetcategorie,{headers}).then(res=>{
@@ -85,7 +85,7 @@ export class Index extends Component{
                 requetfr: e.target.value
             })
             const headers = {
-                "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+                "x-api-key": process.env.REACT_APP_TOKEN,
                 }
 
                 if (this.state.searchhandler) {
@@ -109,7 +109,7 @@ export class Index extends Component{
 
             })
             const headers = {
-                "x-api-key": "GQUthEhIJnOWHBDz5qIKoJpggkSYcI1jK4NGKeF9DNM",
+                "x-api-key": process.env.REACT_APP_TOKEN,
                 }
 
                 if (this.state.searchhandler) {
